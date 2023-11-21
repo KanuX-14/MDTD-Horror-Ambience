@@ -11,6 +11,8 @@ Always carry your torch on.
 Installation
 ------------
 
+First download the mod's archive. [[ZIP](https://gitlab.com/moredaystodie/horror-ambience/-/archive/master/horror-ambience-master.zip)/[TAR](https://gitlab.com/moredaystodie/horror-ambience/-/archive/master/horror-ambience-master.tar.gz)]
+
 Move the `horror-ambience-master` folder to 7 Days to Die's mod folder.<br>
 
 - Steam:
