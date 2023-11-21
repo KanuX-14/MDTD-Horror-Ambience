@@ -1,0 +1,21 @@
+<configs>
+  <!--
+    From original files:
+    - Try to understand what it all means.
+    - Set a minimum visible light.
+    - Make it look nice, because come on...
+  -->
+
+  <!-- Night ambient -->
+  <set xpath="/worldglobal/environment/property[@name='ambientMoon']/@value">0, 0</set>
+  <set xpath="/worldglobal/environment/property[@name='ambientSkyScale']/@value">1, .3</set>
+
+  <!-- Indoor -->
+  <set xpath="/worldglobal/environment/property[@name='ambientInsideThreshold']/@value">0.1</set>
+  <set xpath="/worldglobal/environment/property[@name='ambientInsideSpeed']/@value">.4</set>
+  <set xpath="/worldglobal/environment/property[@name='ambientInsideEquatorScale']/@value">0.2</set>
+  <set xpath="/worldglobal/environment/property[@name='ambientInsideGroundScale']/@value">0.1</set>
+  <set xpath="/worldglobal/environment/property[@name='ambientInsideSkyScale']/@value">0.3</set>
+
+</configs>
+
