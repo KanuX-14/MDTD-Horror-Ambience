@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <xml>
   <ModInfo>
     <Name value="Horror Ambience"/>
     <Description value="Make nights darker."/>
     <Author value="MoreDaysToDie"/>
-    <Version value="0.0.1" compat="A20"/>
+    <Version value="0.0.2" compat="A20"/>
   </ModInfo>
 </xml>
 
